@@ -1,5 +1,9 @@
 # Demo LLMOps — Classificazione dei motivi di disdetta (pillola 17)
 
+```bash
+git clone https://github.com/master-ai-unimore/llmops-demo
+```
+
 Caso ChurnGuard-adiacente: il CRM di TelcoNova riceve ticket di disdetta in testo
 libero; vogliamo classificarli per **motivo** (prezzo, qualità rete, concorrenza,
 servizio clienti, altro) per alimentare le analisi churn.
